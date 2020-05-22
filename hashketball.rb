@@ -15,4 +15,4 @@ def game_hash(data)
   
 end 
 
-game_hash 
+game_hash(data)
